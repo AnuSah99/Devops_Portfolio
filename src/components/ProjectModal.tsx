@@ -39,7 +39,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) 
           <div>
             <div className="flex items-center space-x-2">
               <span className="text-xs font-mono px-2 py-0.5 rounded bg-amber-500/10 text-amber-300 border border-amber-500/30">
-                {project.isDemo ? 'DEMO ARCHITECTURE SPEC' : 'VERIFIED PROJECT'}
+                {project.isDemo ? 'ARCHITECTURE SPEC' : 'VERIFIED PROJECT'}
               </span>
               <span className="text-xs font-mono text-cyan-400">{project.category}</span>
             </div>
