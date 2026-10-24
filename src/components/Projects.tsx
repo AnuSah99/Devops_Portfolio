@@ -49,7 +49,7 @@ export const Projects: React.FC = () => {
                     {project.category}
                   </span>
                   <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-amber-500/15 text-amber-300 border border-amber-500/30">
-                    DEMO SPEC
+                    {/* DEMO SPEC */}
                   </span>
                 </div>
 
