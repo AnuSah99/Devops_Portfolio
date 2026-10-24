@@ -227,7 +227,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     techStack: ['GitHub Actions', 'Docker', 'Trivy Scanner', 'AWS ECR', 'Bash', 'SonarQube / SAST'],
     metricsPlaceholder: 'Simulated Demo Architecture (Ready to connect with live repos)',
-    githubUrl: 'https://github.com/AnuSah99',
+    githubUrl: 'https://github.com/AnuSah99/CI-CD_Pip.git',
     architectureDiagram: [
       '[Developer Commit] ──> [Git Webhook] ──> [CI Pipeline Triggered]',
       '                                              │',
