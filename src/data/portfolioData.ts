@@ -189,7 +189,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     techStack: ['AWS VPC', 'Terraform', 'Amazon EC2', 'Amazon RDS', 'Application Load Balancer', 'AWS KMS'],
     metricsPlaceholder: 'Simulated Demo Architecture (Ready to benchmark & deploy)',
-    githubUrl: 'https://github.com/AnuSah99',
+    githubUrl: 'https://github.com/AnuSah99/cloud_automation.git',
     architectureDiagram: [
       '[Internet Traffic] ──> [AWS Route 53] ──> [Application Load Balancer (Public Subnets)]',
       '                                              │',
