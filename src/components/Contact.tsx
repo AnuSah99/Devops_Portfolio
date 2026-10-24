@@ -223,7 +223,7 @@ export const Contact: React.FC = () => {
                       required
                       value={name}
                       onChange={(e) => setName(e.target.value)}
-                      placeholder="e.g. Jane Doe (Tech Lead)"
+                      placeholder="e.g. Anu Sah (Infra Engineer)"
                       className="w-full bg-slate-900/90 border border-slate-800 focus:border-emerald-500 rounded-lg px-3.5 py-2.5 text-xs text-white placeholder-slate-500 focus:outline-none transition-colors font-mono"
                     />
                   </div>
