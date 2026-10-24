@@ -31,7 +31,7 @@ export const Projects: React.FC = () => {
           </p>
           <div className="mt-2 inline-flex items-center gap-1.5 text-[11px] font-mono text-amber-400/90 bg-amber-500/10 px-3 py-1 rounded border border-amber-500/20">
             <Sparkles className="h-3 w-3" />
-            <span>Showcase Notice: Projects marked as architecture demos until verified with live production repositories.</span>
+            <span>Showcase Notice: Projects marked as architecture until verified with live production repositories.</span>
           </div>
         </div>
 
